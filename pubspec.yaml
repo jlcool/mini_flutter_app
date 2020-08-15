@@ -74,9 +74,6 @@ dependencies:
   aliossflutter:
     git:
       url: https://github.com/jlcool/aliossflutter
-  flutter_zip_archive:
-    git:
-      url: https://github.com/jlcool/flutter_zip_archive
   flutter_shared_data:
     git:
       url: https://github.com/jlcool/flutter_shared_data
