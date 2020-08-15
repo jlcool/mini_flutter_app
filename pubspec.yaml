@@ -73,9 +73,6 @@ dependencies:
   alipay_kit: 1.1.0
   fake_weibo: 0.2.1
   fake_wechat: ^0.3.4
-  tencent_kit:
-    git:
-      url: https://github.com/v7lin/fake_tencent
   aliossflutter:
     git:
       url: https://github.com/jlcool/aliossflutter
