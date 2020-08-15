@@ -122,11 +122,6 @@ module:
   androidX: true
 
 dependency_overrides:
-  sqflite:
-    git:
-      url: https://www.github.com/jlcool/sqflite_sqlcipher.git
-      path: sqflite
-      ref: 50a4ac0
   flutter_svg: 0.18.0
   markdown:
     git:
